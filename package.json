@@ -1,0 +1,22 @@
+{
+  "name": "imersaodev-alura",
+  "version": "1.0.0",
+  "description": "imersão dev da alura mar-2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/honeyMustard32/imersaodev-alura.git"
+  },
+  "author": "honeyMustard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/honeyMustard32/imersaodev-alura/issues"
+  },
+  "homepage": "https://github.com/honeyMustard32/imersaodev-alura#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
