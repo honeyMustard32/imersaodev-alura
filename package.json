@@ -4,7 +4,8 @@
   "description": "imersão dev da alura mar-2021",
   "main": "index.js",
   "scripts": {
-    "test": "dev"
+    "test": "dev",
+    "start": "lite-server"
   },
   "repository": {
     "type": "git",
